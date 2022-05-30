@@ -335,7 +335,7 @@ const quotes = [
     },
     {
         type: "standard",
-        quote: "... mit anderen Worden, du bist eine Hure des ORF.",
+        quote: "... mit anderen Worten, du bist eine Hure des ORF.",
         name: "Völkerer"
     },
     {
