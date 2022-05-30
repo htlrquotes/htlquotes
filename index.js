@@ -335,7 +335,7 @@ const quotes = [
     },
     {
         type: "standard",
-        quote: "... mit anderen Worten, du bist eine Hure des ORF.",
+        quote: "... mit anderen Worden, du bist eine Hure des ORF.",
         name: "Völkerer"
     },
     {
@@ -433,8 +433,60 @@ const quotes = [
     },
     {
         type: "standard",
-        quote: "Man kann euch nicht enterben, ich habs versucht.",
-        name: "Bayandor"
+        quote: "Danke forsti du schaust mehr auf mich als meine Frau",
+        name: "Völkerer"
+    },
+    {
+        type: "standard",
+        quote: "Patrick warum hast du keine Abgaben gemacht? Gibt's in Pakistan etwa kein Internet?",
+        name: "Völkerer"
+    },
+    {
+        type: "standard",
+        quote: "Der Zeus hat ja alles gevögelt was nicht bei drei am Baum war",
+        name: "Breunig"
+    },
+    {
+        type: "standard",
+        quote: "ich hab immer ein Taschentuch eingesteckt falls ein Schüler anfängt zu weinen",
+        name: "Zainzinger"
+    },
+    {
+        type: "standard",
+        quote: "powershell is supa ",
+        name: "David"
+    },
+    {
+        type: "dialog",
+        parts: [
+            { name: "Eyüp", text: "„Wir haben auch ein Privatleben!“" },
+            { name: "Wagner", text: "„Nein hast du nicht, du bist HTLer“" },
+        ]
+    },
+    {
+        type: "standard",
+        quote: "Normalerweise hat man im Unterricht auch keine Maske auf, außer irgendwo liegt Stroh",
+        name: "Wagner"
+    },
+    {
+        type: "standard",
+        quote: "Ein HTLer der nicht trinkt, ist wie ein Sinus der nicht schwingt",
+        name: "Nico"
+    },
+    {
+        type: "standard",
+        quote: "Wenn ich euch in den Arsch ficke, entspannts euch dann tut's nicht so weh",
+        name: "Schöndorfer"
+    },
+    {
+        type: "standard",
+        quote: "Ich hab große titten schon gerne",
+        name: "Klein"
+    },
+    {
+        type: "standard",
+        quote: "Im nächsten Leben Werd ich zuchtbulle",
+        name: "David"
     },
 ];
 
